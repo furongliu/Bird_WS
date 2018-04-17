@@ -1,0 +1,18 @@
+INFO  2018-03-23 14:15:25,630  4115ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-23 14:15:25,836  4321ms WebService1            Main               - 輸入金鑰: [] 錯誤!
+INFO  2018-03-23 14:18:14,655  9317ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-23 14:18:14,849  9511ms WebService1            Main               - 輸入金鑰: [] 錯誤!
+INFO  2018-03-23 14:27:42,213  4420ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-23 14:27:42,410  4617ms WebService1            Main               - 輸入金鑰: [] 錯誤!
+INFO  2018-03-23 14:32:45,807  5464ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-23 14:32:46,003  5660ms WebService1            Main               - 輸入金鑰: [] 錯誤!
+INFO  2018-03-23 14:36:33,523  7164ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-23 14:36:33,724  7365ms WebService1            Main               - 輸入金鑰: [] 錯誤!
+INFO  2018-03-23 14:43:22,113 20274ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-23 14:43:22,320 20481ms WebService1            Main               - 輸入金鑰: [] 錯誤!
+INFO  2018-03-23 15:07:20,968  3996ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-23 15:07:21,159  4187ms WebService1            Main               - 輸入金鑰: [] 錯誤!
+INFO  2018-03-23 15:15:29,262  4177ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-23 15:15:29,462  4377ms WebService1            Main               - 輸入金鑰: [] 錯誤!
+INFO  2018-03-27 17:09:56,149  4943ms WebService1            Main               - Hello!送子鳥來比對囉!
+WARN  2018-03-27 17:09:56,339  5133ms WebService1            Main               - 輸入金鑰: [] 錯誤!

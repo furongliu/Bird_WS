@@ -1,0 +1,74 @@
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\ApplicationInsights.config
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\csc.exe
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\vbc.exe
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\BirdWS.dll.config
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\BirdWS.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\BirdWS.pdb
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.Web.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Newtonsoft.Json.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.Web.xml
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\Newtonsoft.Json.xml
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\obj\Debug\BirdWS.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\obj\Debug\BirdWS.pdb
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\log4net.dll
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\bin\log4net.xml
+C:\Users\Furong\Documents\Visual Studio 2015\Projects\BirdWS\obj\Debug\BirdWS.csprojResolveAssemblyReference.cache
+D:\furong\送子鳥\project\BirdWS\bin\ApplicationInsights.config
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\csc.exe
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\System.Collections.Immutable.dll
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\System.Reflection.Metadata.dll
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\vbc.exe
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\VBCSCompiler.exe
+D:\furong\送子鳥\project\BirdWS\bin\roslyn\VBCSCompiler.exe.config
+D:\furong\送子鳥\project\BirdWS\bin\BirdWS.dll.config
+D:\furong\送子鳥\project\BirdWS\bin\BirdWS.dll
+D:\furong\送子鳥\project\BirdWS\bin\BirdWS.pdb
+D:\furong\送子鳥\project\BirdWS\bin\log4net.dll
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.DependencyCollector.dll
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.Web.dll
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.WindowsServer.dll
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.ApplicationInsights.dll
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\furong\送子鳥\project\BirdWS\bin\Newtonsoft.Json.dll
+D:\furong\送子鳥\project\BirdWS\bin\log4net.xml
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.DependencyCollector.xml
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.Web.xml
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.AI.WindowsServer.xml
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.ApplicationInsights.xml
+D:\furong\送子鳥\project\BirdWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\furong\送子鳥\project\BirdWS\bin\Newtonsoft.Json.xml
+D:\furong\送子鳥\project\BirdWS\obj\Debug\BirdWS.csprojResolveAssemblyReference.cache
+D:\furong\送子鳥\project\BirdWS\obj\Debug\BirdWS.dll
+D:\furong\送子鳥\project\BirdWS\obj\Debug\BirdWS.pdb
